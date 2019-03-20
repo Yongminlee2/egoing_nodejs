@@ -1,17 +1,1 @@
-var p = {
-    v1:'va',
-    f1: function (){
-            var a = {
-                a: this,
-                c: 'c',
-                b: function(){
-                    var b = {
-                        a: this,
-                        b: 'b'
-                    }
-                    return b;
-                }
-            }
-        return a;
-        }
-    }
+abcdefdfg
